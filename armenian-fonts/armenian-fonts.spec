@@ -10,7 +10,7 @@
 
 Summary: Arian Grqi fonts by Rouben Tarumian.
 Name: %{name}
-Version: 1.0
+Version: 1.1
 Release: 1
 License: GPL
 Group: User Interface/X

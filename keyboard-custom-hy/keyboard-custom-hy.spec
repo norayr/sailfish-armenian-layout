@@ -3,15 +3,15 @@
 #
 Summary: Armenian layout for Sailfish
 Name: keyboard-custom-hy
-Version: 1.0
+Version: 1.1
 Release: 1
 Copyright: GPL
 Group: Applications/System
 BuildArch: noarch
-Source: http://norayr.arnet.am/works/keyboard-custom-hy.tar.gz
+Source: http://norayr.am/works/keyboard-custom-hy.tar.gz
 URL: https://github.com/norayr
 #Distribution: WSS Linux
-Requires: keyboard-custom-common armenian-fonts
+Requires: armenian-fonts
 Vendor: Norayr Chilingarian.
 Packager: Norayr Chilingarian <norayr@arnet.am>
 

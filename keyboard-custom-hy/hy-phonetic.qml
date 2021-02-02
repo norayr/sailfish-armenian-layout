@@ -9,14 +9,14 @@ KeyboardLayout {
         
         CharacterKey { caption: "է"; captionShifted: "Է"; symView: "«"; symView2: "«"; accents: "1"; accentsShifted: "1" }
         CharacterKey { caption: "թ"; captionShifted: "Թ"; symView: "»"; symView2: "»"; accents: "2"; accentsShifted: "2" }
-        CharacterKey { caption: "փ"; captionShifted: "Փ"; symView: "."; symView2: "."; accents: "3"; accentsShifted: "3" }
+        CharacterKey { caption: "փ"; captionShifted: "Փ"; symView: "․"; symView2: "․"; accents: "3"; accentsShifted: "3" }
         CharacterKey { caption: "ձ"; captionShifted: "Ձ"; symView: "՝"; symView2: "՝"; accents: "4"; accentsShifted: "4" }
         CharacterKey { caption: "ջ"; captionShifted: "Ջ"; symView: "՜"; symView2: "՜"; accents: "5"; accentsShifted: "5" }
         CharacterKey { caption: "և"; captionShifted: "և"; symView: "՟"; symView2: "՟"; accents: "6"; accentsShifted: "6" }
         CharacterKey { caption: "ր"; captionShifted: "Ր"; symView: "՛"; symView2: "՛"; accents: "7"; accentsShifted: "7" }
         CharacterKey { caption: "չ"; captionShifted: "Չ"; symView: "՚"; symView2: "՚"; accents: "8"; accentsShifted: "8" }
         CharacterKey { caption: "ճ"; captionShifted: "Ճ"; symView: "‐"; symView2: "‐"; accents: "9"; accentsShifted: "9" }
-        CharacterKey { caption: "ժ"; captionShifted: "Ժ"; symView: "―"; symView2: "―"; accents: "0"; accentsShifted: "0" }
+        CharacterKey { caption: "ժ"; captionShifted: "Ժ"; symView: "—"; symView2: "—"; accents: "0"; accentsShifted: "0" }
         CharacterKey { caption: "շ"; captionShifted: "Շ"; symView: "…"; symView2: "…" }
     }
 

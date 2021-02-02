@@ -3,7 +3,7 @@
 #
 Summary: Armenian layout for Sailfish
 Name: keyboard-custom-hy
-Version: 1.1
+Version: 1.2
 Release: 1
 Copyright: GPL
 Group: Applications/System
@@ -31,6 +31,8 @@ make install
 
 %files
 /usr/share/maliit/plugins/com/jolla/layouts/hy.conf
+/usr/share/maliit/plugins/com/jolla/layouts/hy-phonetic.conf
 /usr/share/maliit/plugins/com/jolla/layouts/hy.qml
+/usr/share/maliit/plugins/com/jolla/layouts/hy-phonetic.qml
 
 
